@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+#resources
+/src/components/Resources/
+
 # production
 /build
 

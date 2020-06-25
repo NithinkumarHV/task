@@ -1,0 +1,10 @@
+.images-carousel img {
+  height: 37vh;
+  padding: 10px 0px 0px 0px;
+  width: 90%;
+  opacity: 0.6;
+}
+
+.images-carousel {
+  background: rgba(66, 173, 129, 0.2);
+}
