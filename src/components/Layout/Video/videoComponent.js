@@ -58,13 +58,13 @@ class videoComponent extends Component {
     } else {
       return (
         <div>
-          <div className="hero" style={{ height: "63vh" }}>
+          <div className="hero" style={{ height: "60vh" }}>
             <video
               autoPlay="autoplay"
               loop="loop"
               muted
               poster={load}
-              style={{ height: "63%" }}
+              style={{ height: "60%" }}
             >
               <source src={backgroundVideo} type="video/mp4" />
             </video>

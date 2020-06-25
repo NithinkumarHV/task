@@ -48,9 +48,9 @@ img:hover {
 
 .hero .caption h1 {
   text-transform: uppercase;
-  font-size: 1.5em;
+  font-size: 1.3em;
   font-family: Poppins;
-  margin-bottom: 0.6rem;
+  margin-bottom: 5px;
 }
 
 .hero .caption h2 {
@@ -63,17 +63,17 @@ img:hover {
 
 @media screen and (min-width: 768px) {
   .hero .caption h1 {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
   }
 
   .hero .caption h2 {
-    font-size: 1.25rem;
+    font-size: 1rem;
   }
 }
 
 @media screen and (min-width: 992px) {
   .hero .caption h1 {
-    font-size: 2rem;
+    font-size: 1.8rem;
   }
 
   #hero .caption h2 {
@@ -83,7 +83,7 @@ img:hover {
 
 @media screen and (min-width: 1200px) {
   .hero .caption h1 {
-    font-size: 3rem;
+    font-size: 2.5rem;
   }
 
   .hero .caption h2 {
